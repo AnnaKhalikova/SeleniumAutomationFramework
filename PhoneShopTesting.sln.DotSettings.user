@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=19c9606a_002D1d4e_002D483b_002Dbc09_002D24fc02a70e3a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.Tests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.DetailsFormTest.InvalidFirstName&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CheckoutPageTest.CheckoutWithBlankFields&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CheckoutPageTest.InvalidFirstName&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CartPageTest.AddTheSelectedQuantityOfProductsToTheCart&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CartPageTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.ProductsPageTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CheckoutPageTest.InvalidPhoneNumber&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CheckoutPageTest.InvalidPhoneNumber1&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CheckoutPageTest.InvalidDate&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CheckoutPageTest.InvalidAddress&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cac4b3c4_002Dc0e5_002D4296_002Da66f_002De9dae9a2b800/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddTheSelectedQuantityOfProductsToTheCart" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CartPageTest.AddTheSelectedQuantityOfProductsToTheCart&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.Tests.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CheckoutPageTest.CheckoutWithBlankFields&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.ProductsPageTest.AddOneProductToCart&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.ProductsPageTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CartPageTest.DeleteProductFromTheCart&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B7D45B75-EF28-4BAB-98B4-64256ED2B753::.NETCoreApp,Version=v3.1::PhoneShopTesting.Tests.CheckoutPageTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
